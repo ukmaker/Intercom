@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Duncan)(type KiCad)(uri /home/duncan/smb4k/MICROSERVER/duncan/duncan/EDA/kicad/Duncan.pretty)(options "")(descr ""))
+)
